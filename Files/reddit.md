@@ -8,7 +8,7 @@ If its not worth Keeping, is there an alternative you would recommend?
 
 https://www.reddit.com/r/discordapp/comments/16z0as5/double_counter_advice/
 
-#Reddit Comment #1
+# Reddit Comment #1
 [u/protected22](https://www.reddit.com/user/Protected22/)
 I've used this bot and it has its flaws.Mostly these flaws:
 - Malware ads on their verify page. They are aware of this and try to get rid of it. Only way to get rid of it or to keep your members safe is by paying for their premium-bot.
